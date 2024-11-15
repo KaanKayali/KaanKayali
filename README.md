@@ -1,12 +1,12 @@
 # 👋 I'm Kaan
-**Full-Stack Developer** from Switzerland
-🎓 Currently completing an internship and on track to become a certified EFZ Application Developer by Summer 2025.
+**Full-Stack Developer** from Switzerland <br>
+💻 Currently completing an internship and on track to become a certified EFZ Application Developer by Summer 2025.
 I'm continuously improving my skills and exploring new technologies to build useful applications. <br>
 Open to collaborations and new experiences!
 
 ## 🚀 About Me
-- 🔥 Passionate about Web Development in both Front-End and Back-End technologies.
-- 💻 Interested in programming and creating physics-based simulations.
+- Passionate about Web Development in both Front-End and Back-End technologies.
+- Interested in programming and creating physics-based simulations.
 
 ## ⚙️ Programming languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
