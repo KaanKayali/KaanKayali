@@ -1,6 +1,6 @@
 # 👋 I'm Kaan
 **Full-Stack Developer** from Switzerland <br>
-💻 Currently completing an internship and on track to become a certified EFZ Application Developer by Summer 2025.
+💻 Currently completing an internship and on track to become a certified **EFZ Application Developer** by Summer 2025. <br>
 I'm continuously improving my skills and exploring new technologies to build useful applications. <br>
 Open to collaborations and new experiences!
 
