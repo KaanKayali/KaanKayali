@@ -7,7 +7,7 @@ Open to collaborations and new experiences!
 - Dedicated to mastering both Front-End and Back-End aspects of Web Development.
 - Inspired by the power of programming to simulate complex physics and bring ideas to life.
 
-## Technologies I'm familiar with
+## A few Technologies I'm familiar with
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-563d7c?&style=flat&logo=css3&logoColor=white)
